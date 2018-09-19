@@ -1,2 +1,2 @@
 # MATSU-bed-to-MATLAB-withUSBSerial
-USBSerialを用いてMATSU-bedとMATLABで通信を行う
+USBSerialを用いてMATSU-bedとMATLAB(simulink)で通信を行う
